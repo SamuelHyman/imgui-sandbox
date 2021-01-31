@@ -1,0 +1,16 @@
+windows:
+  Window 1:
+    size: [100, 100]
+    position: [0, 0]
+    visible: true
+    docked: true
+  Window 2:
+    size: [100, 100]
+    position: [0, 0]
+    visible: true
+    docked: true
+  Window 3:
+    size: [100, 100]
+    position: [0, 0]
+    visible: true
+    docked: true
